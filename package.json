@@ -1,0 +1,25 @@
+{
+  "name": "jardim",
+  "version": "1.0.0",
+  "description": "Jardim is a simple, high customizable CMS admin interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jardimcms/jardim.git"
+  },
+  "keywords": [
+    "cms",
+    "react",
+    "redux",
+    "website"
+  ],
+  "author": "Artur Felipe Sousa <arturfelipe.sousa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jardimcms/jardim/issues"
+  },
+  "homepage": "https://github.com/jardimcms/jardim#readme"
+}
