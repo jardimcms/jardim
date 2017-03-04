@@ -1,10 +1,11 @@
 {
   "name": "jardim",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Jardim is a simple, high customizable CMS admin interface.",
   "main": "index.js",
   "scripts": {
-    "start": "node server"
+    "start": "node server",
+    "lint": "eslint --max-warnings 0 -c .eslintrc src"
   },
   "repository": {
     "type": "git",
